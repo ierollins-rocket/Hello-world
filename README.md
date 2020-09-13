@@ -41,9 +41,9 @@ Exit Opportunities
 There are strong market signals that the digital health, fintech, and insurtech markets are beginning to mature as venture-backed companies like Lemonade, Rocket Companies, Amwell, Accolade, nCino, and Fusion Acquisition are preparing IPOs and SPACs that will pave the way for the next wave of tech startups to exploit these exit opportunities.
 
 Invest in Rocket Propulsion Labs’ Rolling Fund!
-I invite you to review the intro deck for details about me and my background, my sustainable competitive advantages for access to deal flow, deals in the pipeline, investment strategy and thesis, approach to portfolio construction, fee structure, minimum subscription amounts, value add to founders, and other bits.🚀
+I invite you to review the details about the rolling fund, my background, my sustainable competitive advantages for access to deal flow, deals in the pipeline, investment strategy and thesis, approach to portfolio construction, fee structure, minimum subscription amounts, value add to founders, and other bits.🚀
 
-Click here => RPLabs Intro Deck
+Click here => Rocket Propulsion Labs AngelList Fund Site
 
 Israel Rollins
 Founder/GP
