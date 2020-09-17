@@ -2,7 +2,7 @@ Hello-world!
 
 Trust is earned and not given freely. 
 
-It's with this spirit, we've created this GitHub repo to make documents publicly accessible and to ensure they evolve with the needs of our entrepreneurs and investors.
+It's with this spirit, we've created this GitHub repo to make documents publicly accessible under [open source license] and to ensure they evolve with the needs of our entrepreneurs and investors.
 
 In this repo you'll find: 
 
