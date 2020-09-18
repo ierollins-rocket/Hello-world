@@ -6,8 +6,8 @@ It's with this spirit, we've created this GitHub repo to make documents publicly
 
 In this repo you'll find: 
 
--[Fund Note] providing a description of Rocket Propulsion Labs
+-[Fund Note](https://github.com/ierollins-rocket/Hello-world/blob/master/01-Fund%20Note.md) providing a description of Rocket Propulsion Labs
 
--[Investment Criteria] providing a description of what we look for in seed stage companies
+-[Investment Criteria]( providing a description of what we look for in seed stage companies
 
 -[Portfolio Companies] a listing of companies we invested in 
