@@ -10,4 +10,4 @@ In this repo you'll find:
 
 -[Investment Criteria](https://github.com/ierollins-rocket/Hello-world/blob/master/02-Investment%20Criteria) providing a description of what we look for in seed stage companies
 
--[Portfolio Companies] a listing of companies we invested in 
+-[Portfolio Companies](https://github.com/ierollins-rocket/Hello-world/blob/master/03-Portfolio%20Companies) a listing of companies we invested in 
