@@ -8,6 +8,6 @@ In this repo you'll find:
 
 * [Fund Note](https://github.com/ierollins-rocket/Hello-world/blob/master/01-Fund%20Note.md) providing a description of Rocket Propulsion Labs
 
-* [Investment Criteria](https://github.com/ierollins-rocket/Hello-world/blob/master/02-Investment%20Criteria) providing a description of what we look for in seed stage companies
+* [Investment Criteria](https://github.com/ierollins-rocket/Hello-world/blob/master/02-Investment%20Criteria.md) providing a description of what we look for in seed stage companies
 
 * [Portfolio Companies](https://github.com/ierollins-rocket/Hello-world/blob/master/03-Portfolio%20Companies) a listing of companies we invested in 
