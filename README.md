@@ -1,4 +1,4 @@
-Hello-world!
+Hello world!
 
 Trust is earned and not given freely. 
 
