@@ -27,5 +27,5 @@ Unit economics
 Deal terms
 * standard investor protections (i.e., 1x liquidity pref, blocking rights)
 * Pro rata rights, information rights
-* fair founders ownership and key employee equity
+* fair founder ownership and key employee equity
 * diversity rider
