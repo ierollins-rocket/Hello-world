@@ -10,14 +10,15 @@ Founders and team
 * trustworthiness
 * diversity of founding team 
 * industry experience and/or best-in-class domain expertise
-* capable of raising capital and reaching milestones for next funding round
+* ability to raise capital and reaching milestones for next funding round
 
 Product and market
 * fit with one or more of our stated investment areas
-* early growth signals and product/market fit
+* addressing a well-known problem, solving with a better solution
+* early signals of product/market fit
 * pull rather than push (customers do not need to be sold, will buy immediately)
-* exclusive channel to market
-* critical timing (Now rather than later)
+* exclusive or defensible channels to market
+* sense of market timing (now! rather than later)
 * ability to exploit network effects and ensure customer lock-in
 
 Unit economics
