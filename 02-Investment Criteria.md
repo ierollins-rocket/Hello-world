@@ -8,6 +8,7 @@ Below are investment criteria we consider when making an investment decision:
 
 Founders and team
 * trustworthiness
+* grit
 * diversity of founding team 
 * industry experience and/or best-in-class domain expertise
 * ability to raise capital and reaching milestones for next funding round
