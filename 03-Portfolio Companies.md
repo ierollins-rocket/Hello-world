@@ -1,2 +1,2 @@
-[AltoIRA](AltoIRA) [Eric Satz](Eric Satz) [Andrea Kampine](Andrea Kampine)Fintech
+[Eric Satz](https://www.linkedin.com/in/eric-satz-altoira/)
 
