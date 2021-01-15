@@ -3,7 +3,7 @@ Fund Note
 
 🚀Blast off with Rocket Propulsion Labs’ Rolling Fund!
 
-Have digital health, fintech, and insurtech startups in your portfolio?
+Have digital health, fintech, and insurtech companies in your portfolio?
 
 These three sectors are essential, massive contributors to GDP, ripe for digital disruption and are must-haves for the sophisticated LP’s portfolio.
 
@@ -26,7 +26,7 @@ Personally, this presents an opportunity to showcase my skills as an investor an
 And, as a check writer, I am fully committed to investing in black and other underrepresented founders including LatinX, women, and LGBTQ+.
 
 Rocket Propulsion Labs Fund Overview
-Rocket Propulsion Labs will invest in digital health, fintech, and insurtech startups at the pre-seed, seed, and Series A stages with valuations of less than $100M and at a pace of 5 to 7 investments per quarter. Most of our investments will be in the $50K - $500K range. 
+Rocket Propulsion Labs will invest in high-quality digital health, fintech, and insurtech companies at the late and growth stages and at a pace of 1 to 2 investments per quarter. Most of our investments will be in the $500K - $5M range. 
 
 Digital Health
 Investments focused on startups tackling challenges in hospital and payer administration, accelerating drug research and development, advancing telemedicine, adding resilience to pharma supply chains, reducing health disparities, and creating digital-first care models, etc. 
