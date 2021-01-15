@@ -26,21 +26,26 @@ Personally, this presents an opportunity to showcase my skills as an investor an
 And, as a check writer, I am fully committed to investing in black and other underrepresented founders including LatinX, women, and LGBTQ+.
 
 Rocket Propulsion Labs Fund Overview
+
 Rocket Propulsion Labs will invest in high-quality digital health, fintech, and insurtech companies at the late and growth stages and at a pace of 1 to 2 investments per quarter. Most of our investments will be in the $500K - $5M range. 
 
 Digital Health
+
 Investments focused on startups tackling challenges in hospital and payer administration, accelerating drug research and development, advancing telemedicine, adding resilience to pharma supply chains, reducing health disparities, and creating digital-first care models, etc. 
 
 Fintech
+
 Investments focused on startups building powerful digital tools to speed money transfer, automate regulatory compliance, launch new digital financial products, improve pricing transparency, etc. 
 
 Insurtech
 Investments focused on startups creating next-gen health & benefits plans, streamlining comparison and distribution, launching digital risk products, powering wearables, accelerating underwriting, etc. 
 
 Exit Opportunities
+
 There are strong market signals that the digital health, fintech, and insurtech markets are beginning to mature as venture-backed companies like Lemonade, Rocket Companies, Amwell, Accolade, nCino, and Fusion Acquisition are preparing IPOs and SPACs that will pave the way for the next wave of tech startups to exploit these exit opportunities.
 
 Invest in Rocket Propulsion Labs’ Rolling Fund!
+
 I invite you to review the details about the rolling fund, my background, my sustainable competitive advantages for access to deal flow, deals in the pipeline, investment strategy and thesis, approach to portfolio construction, fee structure, minimum subscription amounts, value add to founders, and other bits.🚀
 
 Click here => Rocket Propulsion Labs AngelList Fund Site
